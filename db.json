@@ -5,7 +5,7 @@
       "name": "iPhone 14",
       "description": "128GB, Midnight Black",
       "price": 70000,
-      "stock": 0,
+      "stock": 10,
       "imageUrl": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd",
       "data": 1
     },
@@ -14,7 +14,7 @@
       "name": "Samsung Galaxy S23",
       "description": "8GB RAM, 256GB Storage",
       "price": 65000,
-      "stock": 0,
+      "stock": 10,
       "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
     },
     {
@@ -22,7 +22,7 @@
       "name": "HP Laptop",
       "description": "Intel i5, 16GB RAM",
       "price": 55000,
-      "stock": 0,
+      "stock": 10,
       "imageUrl": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc",
       "data": 19
     },
@@ -31,7 +31,7 @@
       "name": "Boat Headphones",
       "description": "Wireless Bluetooth Headset",
       "price": 3000,
-      "stock": 0,
+      "stock": 10,
       "imageUrl": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd"
     },
     {
@@ -39,7 +39,7 @@
       "name": "Apple Watch",
       "description": "Series 8 Smart Watch",
       "price": 45000,
-      "stock": 4,
+      "stock": 10,
       "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
     },
     {
